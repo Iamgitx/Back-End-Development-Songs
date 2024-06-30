@@ -1,7 +1,7 @@
 # Pin dependencies that might cause breakage
 Werkzeug==2.1.2
 SQLAlchemy==1.4.46
-pymongo==4.0.1
+pymongo==4.8.1
 
 # Build dependencies
 Flask==2.1.2
